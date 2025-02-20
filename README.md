@@ -20,5 +20,5 @@ This is the normal UI of the app
 When you upload an image, the model will return top 3 origamists your model style is the most similar and the confidence level:
 ![prediction](Images/prediction.png)
 
-The final prediction is the combination of result of all uploaed image:
+The final prediction is the combination of results of all uploaed images:
 ![final_prediction](Images/combined_prediction.png)
